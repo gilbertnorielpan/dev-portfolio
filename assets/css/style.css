@@ -1,0 +1,50 @@
+body {
+/*	background-image: url(../images/vg.jpg);*/
+	bacground-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: 'Playfair Display', serif;
+	background-image: url(../images/vg.jpg);
+	background-repeat: no-repeat;
+	background-color: #0070c9;
+
+}
+h1{
+	font-size: 40px;
+	margin-bottom:0;
+	background-color: rgba(0,135,68,0.5);	
+	text-transform: uppercase;
+	letter-spacing: 3px; 
+	font-family: 'Abril Fatface', cursive;
+	width: 500px;
+	text-align: center;
+}
+h2 { 
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+#me{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border-style: solid;
+	border-with: 5px;
+	border-color: green;
+	/*margin-top: 50px;*/
+
+}
+.about{
+	width:  100%;
+	font-size: 18px;
+	line-height:  1.5;
+	background-color: rgba(0,135,68,0.5);
+	font-family: 'Ranga', cursive;
+	color: white
+}
+.container{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+
+}
